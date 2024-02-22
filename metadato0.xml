@@ -1,0 +1,254 @@
+<grp_any>
+            <anyObject type="lom">
+                <educational>
+                    <_groupEducationalEducational>
+                        <context>
+                            <groupContextContext>
+<complexTypeContextVocabSource>
+    <content>LOM-ESv1.0</content>
+    <uniqueElementName>source</uniqueElementName>
+</complexTypeContextVocabSource>
+<complexTypeContextVocabValue>
+    <content>Aula</content>
+    <uniqueElementName>value</uniqueElementName>
+</complexTypeContextVocabValue>
+                            </groupContextContext>
+                        </context>
+                        <context>
+                            <groupContextContext>
+<complexTypeContextVocabSource>
+    <content>LOM-ESv1.0</content>
+    <uniqueElementName>source</uniqueElementName>
+</complexTypeContextVocabSource>
+<complexTypeContextVocabValue>
+    <content>Presencial</content>
+    <uniqueElementName>value</uniqueElementName>
+</complexTypeContextVocabValue>
+                            </groupContextContext>
+                        </context>
+                        <descriptionUnbounded>
+                            <groupDescriptionUnboundedDescription>
+<languageStringItem>
+    <string>
+        <content>Funciones y gráficas. Características.</content>
+        <language>es</language>
+    </string>
+</languageStringItem>
+                            </groupDescriptionUnboundedDescription>
+                        </descriptionUnbounded>
+                        <intendedEndUserRole>
+                            <groupIntendedEndUserRoleIntendedEndUserRole>
+<complexTypeIntendedEndUserRoleVocabSource>
+    <content>LOM-ESv1.0</content>
+    <uniqueElementName>source</uniqueElementName>
+</complexTypeIntendedEndUserRoleVocabSource>
+<complexTypeIntendedEndUserRoleVocabValue>
+    <content>Alumno en general</content>
+    <uniqueElementName>value</uniqueElementName>
+</complexTypeIntendedEndUserRoleVocabValue>
+                            </groupIntendedEndUserRoleIntendedEndUserRole>
+                        </intendedEndUserRole>
+                        <intendedEndUserRole>
+                            <groupIntendedEndUserRoleIntendedEndUserRole>
+<complexTypeIntendedEndUserRoleVocabSource>
+    <content>LOM-ESv1.0</content>
+    <uniqueElementName>source</uniqueElementName>
+</complexTypeIntendedEndUserRoleVocabSource>
+<complexTypeIntendedEndUserRoleVocabValue>
+    <content>individual</content>
+    <uniqueElementName>value</uniqueElementName>
+</complexTypeIntendedEndUserRoleVocabValue>
+                            </groupIntendedEndUserRoleIntendedEndUserRole>
+                        </intendedEndUserRole>
+                        <language>
+                            <groupLanguageLanguage>
+<content>es</content>
+                            </groupLanguageLanguage>
+                        </language>
+                        <learningResourceType>
+                            <groupLearningResourceTypeLearningResourceType>
+<complexTypeLearningResourceTypeVocabSource>
+    <content>LOM-ESv1.0</content>
+    <uniqueElementName>source</uniqueElementName>
+</complexTypeLearningResourceTypeVocabSource>
+<complexTypeLearningResourceTypeVocabValue>
+    <content>didactic game</content>
+    <uniqueElementName>value</uniqueElementName>
+</complexTypeLearningResourceTypeVocabValue>
+                            </groupLearningResourceTypeLearningResourceType>
+                        </learningResourceType>
+                        <learningResourceType>
+                            <groupLearningResourceTypeLearningResourceType>
+<complexTypeLearningResourceTypeVocabSource>
+    <content>LOM-ESv1.0</content>
+    <uniqueElementName>source</uniqueElementName>
+</complexTypeLearningResourceTypeVocabSource>
+<complexTypeLearningResourceTypeVocabValue>
+    <content>didactic game</content>
+    <uniqueElementName>value</uniqueElementName>
+</complexTypeLearningResourceTypeVocabValue>
+                            </groupLearningResourceTypeLearningResourceType>
+                        </learningResourceType>
+                        <typicalAgeRange>
+                            <groupTypicalAgeRangeTypicalAgeRange>
+<languageStringItem>
+    <string>
+        <content>15-16</content>
+        <language>es</language>
+    </string>
+</languageStringItem>
+                            </groupTypicalAgeRangeTypicalAgeRange>
+                        </typicalAgeRange>
+                        <typicalAgeRange>
+                            <groupTypicalAgeRangeTypicalAgeRange>
+<languageStringItem>
+    <string>
+        <content>16-18</content>
+        <language>es</language>
+    </string>
+</languageStringItem>
+                            </groupTypicalAgeRangeTypicalAgeRange>
+                        </typicalAgeRange>
+                    </_groupEducationalEducational>
+                </educational>
+                <general>
+                    <groupGeneralGeneral>
+                        <aggregationLevel>
+                            <groupAggregationLevelAggregationLevel>
+<complexTypeAggregationLevelVocabSource>
+    <content>LOM-ESv1.0</content>
+    <uniqueElementName>source</uniqueElementName>
+</complexTypeAggregationLevelVocabSource>
+<complexTypeAggregationLevelVocabValue>
+    <content>2</content>
+    <uniqueElementName>value</uniqueElementName>
+</complexTypeAggregationLevelVocabValue>
+<uniqueElementName>aggregationLevel</uniqueElementName>
+                            </groupAggregationLevelAggregationLevel>
+                        </aggregationLevel>
+                        <descriptionUnbounded>
+                            <groupDescriptionUnboundedDescription>
+<languageStringItem>
+    <string>
+        <content>Actividades sobre funciones. Matemáticas.</content>
+        <language>es</language>
+    </string>
+</languageStringItem>
+                            </groupDescriptionUnboundedDescription>
+                        </descriptionUnbounded>
+                        <keyword>
+                            <groupKeywordKeyword>
+<languageStringItem>
+    <string>
+        <content>ejercicios de funciones</content>
+        <language>es</language>
+    </string>
+</languageStringItem>
+                            </groupKeywordKeyword>
+                        </keyword>
+                        <keyword>
+                            <groupKeywordKeyword>
+<languageStringItem>
+    <string>
+        <content>asíntotas de funciones</content>
+        <language>es</language>
+    </string>
+</languageStringItem>
+                            </groupKeywordKeyword>
+                        </keyword>
+                        <keyword>
+                            <groupKeywordKeyword>
+<languageStringItem>
+    <string>
+        <content>Funciones y Gráficas</content>
+        <language>es</language>
+    </string>
+</languageStringItem>
+                            </groupKeywordKeyword>
+                        </keyword>
+                        <language>
+                            <groupLanguageLanguage>
+<content>es</content>
+                            </groupLanguageLanguage>
+                        </language>
+                        <title>
+                            <groupTitleTitle>
+<languageStringItem>
+    <string>
+        <content>Tarjetas de memoria. Funciones racionales</content>
+        <language>es</language>
+    </string>
+</languageStringItem>
+<uniqueElementName>title</uniqueElementName>
+                            </groupTitleTitle>
+                        </title>
+                        <uniqueElementName>general</uniqueElementName>
+                    </groupGeneralGeneral>
+                </general>
+                <lifeCycle>
+                    <groupLifeCycleLifeCycle>
+                        <uniqueElementName>lifeCycle</uniqueElementName>
+                    </groupLifeCycleLifeCycle>
+                </lifeCycle>
+                <metaMetadata>
+                    <groupMetaMetadataMetaMetadata>
+                        <language>
+                            <groupLanguageLanguage>
+<content>es</content>
+                            </groupLanguageLanguage>
+                        </language>
+                        <metadataSchema>
+                            <groupMetadataSchemaMetadataSchema>
+<content>LOM-ESv1.0</content>
+                            </groupMetadataSchemaMetadataSchema>
+                        </metadataSchema>
+                        <uniqueElementName>metaMetadata</uniqueElementName>
+                    </groupMetaMetadataMetaMetadata>
+                </metaMetadata>
+                <rights>
+                    <groupRightsRights>
+                        <access>
+                            <groupAccessAccess>
+<accessType>
+    <groupAccessTypeAccessType>
+        <complexTypeAccessTypeVocabSource>
+            <content>LOM-ESv1.0</content>
+            <uniqueElementName>source</uniqueElementName>
+        </complexTypeAccessTypeVocabSource>
+        <complexTypeAccessTypeVocabValue>
+            <content>universal</content>
+            <uniqueElementName>value</uniqueElementName>
+        </complexTypeAccessTypeVocabValue>
+        <uniqueElementName>accessType</uniqueElementName>
+    </groupAccessTypeAccessType>
+</accessType>
+<description>
+    <groupDescriptionDescription>
+        <languageStringItem>
+            <string>
+                <content />
+            </string>
+        </languageStringItem>
+    </groupDescriptionDescription>
+</description>
+<uniqueElementName>access</uniqueElementName>
+                            </groupAccessAccess>
+                        </access>
+                        <copyrightAndOtherRestrictions>
+                            <groupCopyrightAndOtherRestrictionsCopyrightAndOtherRestrictions>
+<complexTypeCopyrightAndOtherRestrictionsVocabSource>
+    <content>LOM-ESv1.0</content>
+    <uniqueElementName>source</uniqueElementName>
+</complexTypeCopyrightAndOtherRestrictionsVocabSource>
+<complexTypeCopyrightAndOtherRestrictionsVocabValue>
+    <content>creative commons: attribution - share alike</content>
+    <uniqueElementName>value</uniqueElementName>
+</complexTypeCopyrightAndOtherRestrictionsVocabValue>
+<uniqueElementName>copyrightAndOtherRestrictions</uniqueElementName>
+                            </groupCopyrightAndOtherRestrictionsCopyrightAndOtherRestrictions>
+                        </copyrightAndOtherRestrictions>
+                        <uniqueElementName>rights</uniqueElementName>
+                    </groupRightsRights>
+                </rights>
+            </anyObject>
+        </grp_any>

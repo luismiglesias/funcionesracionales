@@ -1,0 +1,188 @@
+<grp_any xmlns="http://www.imsglobal.org/xsd/imscp_v1p1">
+            <anyObject type="lom">
+                <educational>
+                    <_groupEducationalEducational>
+                        <language>
+                            <groupLanguageLanguage>
+<content>es</content>
+                            </groupLanguageLanguage>
+                        </language>
+                        <learningResourceType>
+                            <groupLearningResourceTypeLearningResourceType>
+<complexTypeLearningResourceTypeVocabSource>
+    <content>LOM-ESv1.0</content>
+    <uniqueElementName>source</uniqueElementName>
+</complexTypeLearningResourceTypeVocabSource>
+<complexTypeLearningResourceTypeVocabValue>
+    <content>integrated media</content>
+    <uniqueElementName>value</uniqueElementName>
+</complexTypeLearningResourceTypeVocabValue>
+                            </groupLearningResourceTypeLearningResourceType>
+                        </learningResourceType>
+                    </_groupEducationalEducational>
+                </educational>
+                <general>
+                    <groupGeneralGeneral>
+                        <aggregationLevel>
+                            <groupAggregationLevelAggregationLevel>
+<complexTypeAggregationLevelVocabSource>
+    <content>LOM-ESv1.0</content>
+    <uniqueElementName>source</uniqueElementName>
+</complexTypeAggregationLevelVocabSource>
+<complexTypeAggregationLevelVocabValue>
+    <content>2</content>
+    <uniqueElementName>value</uniqueElementName>
+</complexTypeAggregationLevelVocabValue>
+<uniqueElementName>aggregationLevel</uniqueElementName>
+                            </groupAggregationLevelAggregationLevel>
+                        </aggregationLevel>
+                        <descriptionUnbounded>
+                            <groupDescriptionUnboundedDescription>
+<languageStringItem>
+    <string>
+        <content>Actividades sobre funciones. Matemáticas.</content>
+        <language>es</language>
+    </string>
+</languageStringItem>
+                            </groupDescriptionUnboundedDescription>
+                        </descriptionUnbounded>
+                        <identifier>
+                            <groupIdentifierIdentifier>
+<catalog>
+    <groupCatalogCatalog>
+        <content>catalogo.agrega</content>
+        <uniqueElementName>catalog</uniqueElementName>
+    </groupCatalogCatalog>
+</catalog>
+<entry>
+    <groupEntryEntry>
+        <content>ODE-9d6349ab-21fd-3057-b563-b0725d6ace01</content>
+        <uniqueElementName>entry</uniqueElementName>
+    </groupEntryEntry>
+</entry>
+                            </groupIdentifierIdentifier>
+                        </identifier>
+                        <language>
+                            <groupLanguageLanguage>
+<content>es</content>
+                            </groupLanguageLanguage>
+                        </language>
+                        <title>
+                            <groupTitleTitle>
+<languageStringItem>
+    <string>
+        <content>Tarjetas de memoria. Funciones racionales</content>
+        <language>es</language>
+    </string>
+</languageStringItem>
+<uniqueElementName>title</uniqueElementName>
+                            </groupTitleTitle>
+                        </title>
+                        <uniqueElementName>general</uniqueElementName>
+                    </groupGeneralGeneral>
+                </general>
+                <lifeCycle>
+                    <groupLifeCycleLifeCycle>
+                        <contribute>
+                            <groupContributeContribute>
+<date>
+    <groupDateDate>
+        <complexTypeDateTimeDateTime>
+            <content>2023-06-04T20:19:07.968Z</content>
+            <uniqueElementName>dateTime</uniqueElementName>
+        </complexTypeDateTimeDateTime>
+        <complexTypeDateTimeDescription>
+            <languageStringItem>
+                <string>
+                    <content>Fecha de creaciï¿½n en Agrega</content>
+                </string>
+            </languageStringItem>
+        </complexTypeDateTimeDescription>
+        <uniqueElementName>date</uniqueElementName>
+    </groupDateDate>
+</date>
+<entityUnbounded>
+    <groupEntityUnboundedEntity>
+        <content>BEGIN:VCARD VERSION:3.0 FN: luismiglesias@gmail.com EMAIL;TYPE=INTERNET: ORG: Plataforma Agrega-WebSemantica</content>
+    </groupEntityUnboundedEntity>
+</entityUnbounded>
+<role>
+    <groupRoleRole>
+        <complexTypeRoleVocabSource>
+            <content>LOM-ESv1.0</content>
+            <uniqueElementName>source</uniqueElementName>
+        </complexTypeRoleVocabSource>
+        <complexTypeRoleVocabValue>
+            <content>author</content>
+            <uniqueElementName>value</uniqueElementName>
+        </complexTypeRoleVocabValue>
+        <uniqueElementName>role</uniqueElementName>
+    </groupRoleRole>
+</role>
+                            </groupContributeContribute>
+                        </contribute>
+                        <uniqueElementName>lifeCycle</uniqueElementName>
+                    </groupLifeCycleLifeCycle>
+                </lifeCycle>
+                <metaMetadata>
+                    <groupMetaMetadataMetaMetadata>
+                        <language>
+                            <groupLanguageLanguage>
+<content>es</content>
+                            </groupLanguageLanguage>
+                        </language>
+                        <metadataSchema>
+                            <groupMetadataSchemaMetadataSchema>
+<content>LOM-ESv1.0</content>
+                            </groupMetadataSchemaMetadataSchema>
+                        </metadataSchema>
+                        <uniqueElementName>metaMetadata</uniqueElementName>
+                    </groupMetaMetadataMetaMetadata>
+                </metaMetadata>
+                <rights>
+                    <groupRightsRights>
+                        <access>
+                            <groupAccessAccess>
+<accessType>
+    <groupAccessTypeAccessType>
+        <complexTypeAccessTypeVocabSource>
+            <content>LOM-ESv1.0</content>
+            <uniqueElementName>source</uniqueElementName>
+        </complexTypeAccessTypeVocabSource>
+        <complexTypeAccessTypeVocabValue>
+            <content>universal</content>
+            <uniqueElementName>value</uniqueElementName>
+        </complexTypeAccessTypeVocabValue>
+        <uniqueElementName>accessType</uniqueElementName>
+    </groupAccessTypeAccessType>
+</accessType>
+<description>
+    <groupDescriptionDescription>
+        <languageStringItem>
+            <string>
+                <content>MEC</content>
+            </string>
+        </languageStringItem>
+    </groupDescriptionDescription>
+</description>
+<uniqueElementName>access</uniqueElementName>
+                            </groupAccessAccess>
+                        </access>
+                        <copyrightAndOtherRestrictions>
+                            <groupCopyrightAndOtherRestrictionsCopyrightAndOtherRestrictions>
+<complexTypeCopyrightAndOtherRestrictionsVocabSource>
+    <content>LOM-ESv1.0</content>
+    <uniqueElementName>source</uniqueElementName>
+</complexTypeCopyrightAndOtherRestrictionsVocabSource>
+<complexTypeCopyrightAndOtherRestrictionsVocabValue>
+    <content>creative commons: attribution - non commercial - share alike</content>
+    <uniqueElementName>value</uniqueElementName>
+</complexTypeCopyrightAndOtherRestrictionsVocabValue>
+<uniqueElementName>copyrightAndOtherRestrictions</uniqueElementName>
+                            </groupCopyrightAndOtherRestrictionsCopyrightAndOtherRestrictions>
+                        </copyrightAndOtherRestrictions>
+                        <uniqueElementName>rights</uniqueElementName>
+                    </groupRightsRights>
+                </rights>
+            </anyObject>
+        </grp_any>
